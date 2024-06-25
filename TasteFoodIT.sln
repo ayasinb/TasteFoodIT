@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteFoodIT", "TasteFoodIT\TasteFoodIT.csproj", "{43D164D5-7DBC-4AC9-9A65-A2A61589E901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D164D5-7DBC-4AC9-9A65-A2A61589E901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D164D5-7DBC-4AC9-9A65-A2A61589E901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D164D5-7DBC-4AC9-9A65-A2A61589E901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D164D5-7DBC-4AC9-9A65-A2A61589E901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9ED5974-5A0A-4D37-BF3C-1DAC5D3A58A9}
+	EndGlobalSection
+EndGlobal
